@@ -14,10 +14,3 @@ def fun3():
 def fun4():
     pass
 
-#abcdefg
-def fun5():
-    pass
-
-#abcdefgsdafsafd
-def fun6():
-    pass
